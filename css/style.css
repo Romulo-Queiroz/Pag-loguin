@@ -119,7 +119,7 @@ main form button{
     transition: 0.5s;
 }
 main form button:hover{
-    background-color: #7c51a7;
+    background-color: #fff;
     color: #232A59;
 }
 .links-container{
