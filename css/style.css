@@ -11,6 +11,14 @@
     color: #a166dd;
 }
 
+#eye{
+    display: none;
+}
+
+#eye
+
+
+
 header{
     min-height: 12vh;
     display: flex;
